@@ -7,6 +7,3 @@ Este é um projeto que implementa a exportação de dados de uma lista de produt
 Ela é uma versão introdutória bastante limitada, pois só trabalha com lista de produtos.
 Para exportar uma lista de outro tipo de objeto, seria necessário implementar novas classes,
 não sendo uma solução viável.
-
-.Diagrama de classes para implementação do exportador de lista de produtos para HTML e Markdown.
-image::exportador-simple-factory.png[]
